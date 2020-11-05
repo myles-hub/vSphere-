@@ -6,7 +6,7 @@
 
 VMware vSphere 是 VMware 的企业级虚拟化平台解决方案，可将数据中心计算资源（CPU)、存储资源和网络资源的聚合计算基础架构。vSphere 将这些基础架构作为一个统一的运行环境进行管理，并为您提供工具来管理加入该环境的数据中心。
 
-![vSphere](.\images\vSphere.png)
+![vSphere](./images/vSphere.png)
 
 ### 1.2 vSphere 核心组件
 
@@ -21,7 +21,7 @@ vSphere 的两个核心组件是 ESXi和vCenter Server。
 
 
 
-![vSphere 安装和设置工作流](.\images\vSphere 安装和设置工作流.png)
+![vSphere 安装和设置工作流](./images/vSphere 安装和设置工作流.png)
 
 ## 3. EXSi 安装部署
 
